@@ -1,4 +1,3 @@
-211111111// firebase.js
 import { getApp, getApps, initializeApp } from 'firebase/app';
 import { getDatabase } from 'firebase/database';
 import { doc, getFirestore, setDoc} from 'firebase/firestore';
